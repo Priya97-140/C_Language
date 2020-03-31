@@ -9,7 +9,12 @@ int main(){
 		printf("Hello to Git Developers");
 	}
 	else{
-		printf("Oops!! Error in committing to GitHub");
+		if(input=='n'||(input=='N')){
+			printf("Oops!! Error in committing to GitHub");
+		}
+		else{
+			printf("Invalid input");	
+		}
 	}
 	return 0;
 }
