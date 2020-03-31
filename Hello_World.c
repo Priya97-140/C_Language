@@ -7,7 +7,7 @@ int main(){
 	scanf("%c",&input);
 	if(input=='y'||(input=='Y')){
 		printf("Hello to Git Developers");
-		printf("Hello to everyone");
+		printf("Hello");
 	}
 	else{
 		printf("Oops!! Error in committing to GitHub");
