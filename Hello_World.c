@@ -9,7 +9,7 @@ int main(){
 		printf("Hello to Git Developers");
 	}
 	else{
-		printf("Sorry Error in committing to GitHub");
+		printf("Oops!! Error in committing to GitHub");
 	}
 	return 0;
 }
