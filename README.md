@@ -1,2 +1,2 @@
-# C_Language
-Practiced C programs From geeksforgeeks
+#GIT commands
+Practicing operations in git
